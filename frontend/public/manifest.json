@@ -1,0 +1,31 @@
+{
+  "short_name": "定期ナビ",
+  "name": "なごや地下鉄定期ナビ",
+  "description": "希望する駅と予算から名古屋市営地下鉄の定期券経路候補を探す非公式アプリ",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#17191d",
+  "background_color": "#f8f5f2"
+}
